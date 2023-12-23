@@ -3,3 +3,7 @@ welcome to clouddevops
 welcome to jenkins 
 
 welcome to CICD workshop
+
+welcome to docker
+welcoem to kubernetes 
+welcome to aws
