@@ -1,9 +1,9 @@
 welcome to clouddevops
 
 welcome to jenkins 
-
+welcome to security
 welcome to CICD workshop
-
+welcome to sonarcloud
 welcome to docker
 welcoem to kubernetes 
 welcome to aws
